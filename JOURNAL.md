@@ -42,6 +42,7 @@ I'm super happy that I learned how to import photos - I was really dying in my f
 I'm also glad I learned that I could move the IOs around for better pcb routing, as well as some details for pcb routing (not too close, unlike my first project lol).
 I also worked on the footprint for the capacitive keys - I didn't realize I needed to merge my key shape with the pad, so it took quite a while, a bunch of tries, searching, and moving around, resizing the stuff to finally get it right. Now, it connects beautifully!
 I'm super excited to get to program this later in the week.
+to do list for me: kama vs kunai choose, 3d the parts, get the hardware parts in bom to make sure, code, readme do
 
 tldr: finished silkscreen, pcb routing, capacitive key footprint touchups
 
