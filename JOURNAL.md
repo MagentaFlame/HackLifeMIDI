@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 4.64h | 2 |
+| Week 3 | Tier 1 | 5.29h | 2 |
 
 ## Contents
 
@@ -33,7 +33,7 @@ tldr: finished schematics and choosing capabilities for midi
 
 ### 2026-10-21 – Today, I finished the PCB routings, silkscreen stuff, and refined the capacitive keys' footprint.
 
-**2.37h**
+**3.02h**
 
 Today, I finished the PCB routings, silkscreen stuff, and refined the capacitive keys' footprint.
 I was editing the PCB routings a lot because i wanted to make sure they looked clean, so I changed some of the IO tags around so it looks much better now! I also researched a bit on overlapping routes on back and front side.
@@ -44,6 +44,10 @@ I also worked on the footprint for the capacitive keys - I didn't realize I need
 I'm super excited to get to program this later in the week.
 to do list for me: kama vs kunai choose, 3d the parts, get the hardware parts in bom to make sure, code, readme do
 
+ADD ON I switched the kunai out for the kama and looked for parts - I'm 4.04 over :(((( and I cannot get it down...
+
 tldr: finished silkscreen, pcb routing, capacitive key footprint touchups
 
 [Timelapse](https://lookout.hackclub.com/api/media/f0b89292-d686-4c2d-9299-fda75a9ff0d9/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/15a305f3-1aea-4bca-9c69-a634cd87c54e/video.mp4)
